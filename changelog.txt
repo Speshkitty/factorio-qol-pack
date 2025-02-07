@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2025-02-07
+  Features:
+    - added display-panel-can-display-circuit-amount-as-text by quezler
+    - added inserter-throughput by curiosity-a
+    - added Notice me Senpai by Quezler
+---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2025-02-07
   Features:
