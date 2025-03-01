@@ -1,4 +1,4 @@
-[![Release](https://github.com/fgardt/factorio-mod-template/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/fgardt/factorio-mod-template/actions/workflows/release.yml)
+[![Release](https://mods.factorio.com/mod/speshkitty-qol-pack)](https://mods.factorio.com/mod/speshkitty-qol-pack)
 <!--                           ^======[REPLACE THIS]======^                                                                          ^======[REPLACE THIS]======^  -->
 
 # factorio-mod-template
