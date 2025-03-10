@@ -22,7 +22,7 @@
     "ghost-counter",
     "inserter-throughput",
     "LabDansen",
-    "landing-pad-research",
+    "? landing-pad-research",
     "lane-balancers",
     "lane-filtered-loaders",
     "Milestones",
@@ -37,7 +37,7 @@
     "textplates",
     "Todo-List",
     "UPSFriendlyNixieTubeDisplay",
-    "visible-planets",
+    "? visible-planets",
     "YARM"
   ],
   "quality_required": false,
