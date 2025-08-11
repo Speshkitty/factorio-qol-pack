@@ -9,7 +9,6 @@
   "dependencies": [
     "base",
     "aai-loaders",
-    "aai-loaders-sane",
     "alien-biomes",
     "bullet-trails",
     "circuit_visualizer",
@@ -34,6 +33,7 @@
     "SpidertronEnhancements",
     "textplates",
     "Todo-List",
+    "train-trails",
     "UPSFriendlyNixieTubeDisplay",
     "YARM"
   ],
